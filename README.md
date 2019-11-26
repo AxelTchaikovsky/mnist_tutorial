@@ -22,3 +22,5 @@ Code tested on following environments, other version should also work:
 
 # For students from SJTU
 Please read [HEAR](EE369.md).
+
+testing connection...
